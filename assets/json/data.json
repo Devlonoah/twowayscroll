@@ -1,0 +1,38 @@
+{
+"data":[
+  {
+    "title": "Formal for men",
+    "id":"13drqq",
+    "description":"Best selection for men",
+    "images": [
+      "https://images.pexels.com/photos/157675/fashion-men-s-individuality-black-and-white-157675.jpeg",
+      "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
+      "https://images.pexels.com/photos/1192609/pexels-photo-1192609.jpeg"
+    ]
+  },
+  {
+    "title": "Formal for women",
+    "id":"13drqqer",
+    "images": [
+      "https://images.pexels.com/photos/1021693/pexels-photo-1021693.jpeg",
+      "https://images.pexels.com/photos/884979/pexels-photo-884979.jpeg",
+      "https://images.pexels.com/photos/852860/pexels-photo-852860.jpeg",
+      "https://images.pexels.com/photos/1721558/pexels-photo-1721558.jpeg"
+    ]
+  },
+  {
+    "title": "Boot",
+    "id":"dsdjk2390qc",
+    "description":"Immerse yourself in style",
+    "images": [
+      "https://images.pexels.com/photos/4971699/pexels-photo-4971699.jpeg",
+      "https://images.pexels.com/photos/884979/pexels-photo-884979.jpeg",
+      "https://images.pexels.com/photos/7913105/pexels-photo-7913105.jpeg",
+      "https://images.pexels.com/photos/7062135/pexels-photo-7062135.jpeg"
+    ]
+  }
+]}
+
+
+
