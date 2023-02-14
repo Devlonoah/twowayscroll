@@ -34,6 +34,9 @@ class _WithoutStackState extends State<WithoutStack> {
   Widget build(BuildContext context) {
     //parent or first widget pageview [handling vertical Scroll]
     return Scaffold(
+      appBar: AppBar(
+        title: Text("Twowayscroll"),
+      ),
       body: PageView.builder(
           scrollDirection: Axis.vertical,
           itemCount: listOfCategory?.length,
@@ -44,6 +47,9 @@ class _WithoutStackState extends State<WithoutStack> {
 
             //child or second widget pageview [handling vertical Scroll]
             return PageView(
+                onPageChanged: (value) {
+                  print(value);
+                },
                 // physics: const NeverScrollableScrollPhysics(),
 
                 scrollDirection: Axis.horizontal,
